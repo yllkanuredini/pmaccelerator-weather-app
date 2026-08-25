@@ -1,7 +1,5 @@
 # WeatherScope
 
-Full-stack weather application built by **Yllka Nuredini** for the **PM Accelerator AI Engineer Intern Technical Assessment**.
-
 WeatherScope combines live weather, a 5-day forecast, current-location weather, air-quality context, useful weather insights, persisted weather-range requests, CRUD operations, and CSV/JSON export in one responsive web application.
 
 ## Features
